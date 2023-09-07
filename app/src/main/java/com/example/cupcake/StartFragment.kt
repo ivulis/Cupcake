@@ -53,7 +53,6 @@ class StartFragment : Fragment() {
         binding?.startFragment = this
     }
 
-
     /**
      * Start an order with the desired quantity of cupcakes and navigate to the next screen.
      */
